@@ -1,0 +1,154 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_Attractions">Attractions</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_Museums">Museums</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_Restaurants">Restaurants</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_Hotels">Hotels</string>
+
+    <string name="savedName">savedName</string>
+    <string name="savedAdress">savedAdress</string>
+    <string name="savedTax">savedTax</string>
+    <string name="savedImage">savedImage</string>
+    <string name="savedProgram">savedProgram</string>
+
+    <string name="atraction11">Palatul Parlamentului</string>
+    <string name="atraction12">Address: Strada Izvor 2"-"4, București</string>
+    <string name="atraction13">Open hours:\n
+• March – October, every day 09:00 – 17:00 (last tour at 16:30)\n
+• November – February, every day 10:00 – 16:00 (last tour at 15:30)\n
+</string>
+    <string name="atraction14">Tax:\n
+Standard tour:\n
+• Adults: 40 lei/pers\n
+• Students: 20 lei/pers\n
+• Children: 10 lei/pers
+</string>
+
+    <string name="atraction21">Arcul de Triumf</string>
+    <string name="atraction22">Address: Piața Arcul de Triumf, București</string>
+    <string name="atraction23">Open hours: non-stop</string>
+    <string name="atraction24">Tax: free</string>
+
+    <string name="atraction31">Mogosoaia Palace</string>
+    <string name="atraction32">Address: Strada Valea Parcului 1, Mogoșoaia</string>
+    <string name="atraction33">Open hours: \n
+ • Monday: closed \n
+ • Tuesday-Sunday: 10-18</string>
+    <string name="atraction34">Tax: 5 lei</string>
+
+    <string name="atraction41">Primaverii Palace</string>
+    <string name="atraction42">Address: Bulevardul Primăverii 50, București</string>
+    <string name="atraction43">Open hours:\n
+ • Monday: closed \n
+ • Tuesday-Sunday: 10-17</string>
+    <string name="atraction44">Tax: 35 lei</string>
+
+    <string name="atraction51">Therme</string>
+    <string name="atraction52">Address: Calea Bucuresti 1K, Balotesti </string>
+    <string name="atraction53">Open hours:\n
+ • Monday-Thursday: 9:30-23:30 \n
+ • Friday-Sunday: 8-24</string>
+    <string name="atraction54">Tax: 63"-"97 lei</string>
+
+    <string name="atraction61">Ateneul Roman</string>
+    <string name="atraction62">Address: Strada Benjamin Franklin 1"-"3, București</string>
+    <string name="atraction63">Open hours: non-stop</string>
+    <string name="atraction64">Tax: free</string>
+
+    <string name="museum11">Muzeul Național „George Enescu”</string>
+    <string name="museum12">Address: Calea Victoriei 141, București</string>
+    <string name="museum13">Open hours:\n
+ • Monday: closed \n
+ • Tuesday-Sunday: 10-17</string>
+    <string name="museum14">Tax: 6 lei</string>
+
+    <string name="museum21">Muzeul Național Grigore Antipa</string>
+    <string name="museum22">Address: Șoseaua Pavel Dimitrievici Kiseleff 1</string>
+    <string name="museum23">Open hours:\n
+ • Monday: closed \n
+ • Tuesday-Sunday: 10-20</string>
+    <string name="museum24">Tax: 20 lei</string>
+
+    <string name="museum31">Galeria Nationala de Arta</string>
+    <string name="museum32">Address: Calea Victoriei 49"-"53, București</string>
+    <string name="museum33">Open hours:\n
+ • Monday-Tuesday: closed \n
+ • Wednesday-Sunday: 10-18</string>
+    <string name="museum34">Tax: 15 lei</string>
+
+    <string name="museum41">Muzeul Satului</string>
+    <string name="museum42">Address: 28"-"30, Șoseaua Pavel Dimitrievici Kiseleff</string>
+    <string name="museum43">Open hours:\n
+ • Monday: closed \n
+ • Tuesday-Sunday: 9-19</string>
+    <string name="museum44">Tax: 10 lei</string>
+
+    <string name="museum51">Muzeul Militar National</string>
+    <string name="museum52">Address: Strada Mircea Vulcănescu 125"-"127</string>
+    <string name="museum53">Open hours:\n
+ • Monday-Tuesday: closed \n
+ • Wednesday-Sunday: 9-17</string>
+    <string name="museum54">Tax: 16 lei</string>
+
+    <string name="museum61">Muzeul Național al Țăranului Român</string>
+    <string name="museum62">Address: Șoseaua Pavel Dimitrievici Kiseleff 3</string>
+    <string name="museum63">Open hours:\n
+ • Monday: closed \n
+ • Tuesday-Sunday: 9-17</string>
+    <string name="museum64">Tax: 6 lei</string>
+
+    <string name="restaurant11">Lacrimi si Sfinti</string>
+    <string name="restaurant12">Address: Strada Șepcari, București</string>
+    <string name="restaurant13">Open hours:\n
+ • Monday: 18-02:00 \n
+ • Tuesday-Sunday: 12:30-02:00</string>
+
+    <string name="restaurant21">Shift</string>
+    <string name="restaurant22">Address: Strada General Eremia Grigorescu 17</string>
+    <string name="restaurant23">Open hours: Monday"-"Sunday: 12 - last client </string>
+
+    <string name="restaurant31">Restaurant Veranda. Casa Frumoasa</string>
+    <string name="restaurant32">Address: Strada Clopotarii Vechi 5, București</string>
+    <string name="restaurant33">Open hours: Monday"-"Sunday: 10"-"21 </string>
+
+    <string name="restaurant41">Victoriei 18</string>
+    <string name="restaurant42">Address: Calea Victoriei 18, București</string>
+    <string name="restaurant43">Open hours: Monday"-"Sunday: 12"-"00 </string>
+
+    <string name="restaurant51">Trattoria Bocca</string>
+    <string name="restaurant52">Address: Strada Virgil Madgearu 11, București</string>
+    <string name="restaurant53">Open hours: Monday"-"Sunday: 11"-"23 </string>
+
+    <string name="restaurant61">Chefs Experience</string>
+    <string name="restaurant62">Address: Calea Floreasca 55, București</string>
+    <string name="restaurant63">Open hours: Monday"-"Sunday: 10:30"-"02:00 </string>
+
+    <string name="hotel11">Radisson</string>
+    <string name="hotel12">Address: Calea Victoriei 63"-"81, București</string>
+
+    <string name="hotel21">Athénée Palace Hilton Bucharest</string>
+    <string name="hotel22">Address: Strada Episcopiei 1"-"3, București 010292</string>
+
+    <string name="hotel31">Hotel Cismigiu</string>
+    <string name="hotel32">Address: Bulevardul Regina Elisabeta 38, București</string>
+
+    <string name="hotel41">InterContinental</string>
+    <string name="hotel42">Address: Bulevardul Nicolae Bălcescu 4, București</string>
+
+    <string name="hotel51">Hotel Epoque</string>
+    <string name="hotel52">Address: Intrarea Aurora 17C, București</string>
+
+    <string name="hotel61">JW Marriott Bucharest Grand Hotel</string>
+    <string name="hotel62">Address: Calea 13 Septembrie 90, București</string>
+
+    <string name="string_i_need">STRING_I_NEED</string>
+</resources>
